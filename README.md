@@ -18,4 +18,6 @@ Flask Files
 ● Model File (eg:-model .h5) ]
 https://drive.google.com/drive/folders/1EmpFASg560aokzo8z1HjicTZpeuczlvY?usp=sharing
 
+Training and Testing File
+https://drive.google.com/drive/folders/1n-uyb4xvAP75xJ6qJ8d0JtavKTeQKqqC?usp=sharing
 
