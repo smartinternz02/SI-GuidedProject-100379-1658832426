@@ -21,3 +21,8 @@ https://drive.google.com/drive/folders/1EmpFASg560aokzo8z1HjicTZpeuczlvY?usp=sha
 Training and Testing File
 https://drive.google.com/drive/folders/1n-uyb4xvAP75xJ6qJ8d0JtavKTeQKqqC?usp=sharing
 
+Output screenshot
+https://drive.google.com/file/d/1HueT9EC7L4V5wKf065j0qc0jtOfKfZ-W/view?usp=sharing
+
+Project Report
+https://drive.google.com/file/d/1xHembAiy-VphDjCptFbnZNA2qym41LLE/view?usp=sharing
